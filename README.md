@@ -13,3 +13,5 @@ I'm an✨ coffee addict✨
 - 💬 Ask me about : Web & Mobile Developement / Digital Marketing / Design Thinking /Business Analysis
 - 📫 How to reach me: m.attaa@dialy.net
 - ⚡ Fun fact: The only human being who watched Greys anatomy 3 times 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=attaaboy)](https://github.com/attaaboy/github-readme-stats)
