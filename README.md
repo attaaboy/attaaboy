@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 
-My Name is Mohammed ATTAA but you can call me **attaaboy** is a ✨ Creative Developer ✨ 
+My Name is Mohammed ATTAA but you can call me **attaaboy** 
 
+I'm a ✨ Creative Developer ✨ 
+I'm an✨ author ✨ 
+I'm a ✨ meloman ✨ 
+I'm an✨ coffee addict✨ 
 
 
 - 🔭 I’m currently working on Data Structuring Projects
