@@ -14,4 +14,4 @@ I'm an✨ coffee addict✨
 - 📫 How to reach me: m.attaa@dialy.net
 - ⚡ Fun fact: The only human being who watched Greys anatomy 3 times 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=attaaboy)](https://github.com/attaaboy/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=attaaboy&bg_color=0)](https://github.com/attaaboy/github-readme-stats)
